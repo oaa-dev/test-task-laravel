@@ -76,7 +76,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ### Steps
 1. clone the repository / extract zip file
-   git clone https://github.com/your-repository.git
+   git clone https://github.com/oaa-dev/test-task-laravel.git
 2. cd test-task-laravel
 3. composer install
 4. copy paste .env.example and rename to .env
